@@ -1,0 +1,14 @@
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\domain\bin\Debug\net7.0-windows\domain.deps.json
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\domain\bin\Debug\net7.0-windows\domain.runtimeconfig.json
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\domain\bin\Debug\net7.0-windows\domain.dll
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\domain\bin\Debug\net7.0-windows\domain.pdb
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\domain\obj\Debug\net7.0-windows\domain.csproj.AssemblyReference.cache
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\domain\obj\Debug\net7.0-windows\domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\domain\obj\Debug\net7.0-windows\domain.AssemblyInfoInputs.cache
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\domain\obj\Debug\net7.0-windows\domain.AssemblyInfo.cs
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\domain\obj\Debug\net7.0-windows\domain.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\domain\obj\Debug\net7.0-windows\domain.dll
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\domain\obj\Debug\net7.0-windows\refint\domain.dll
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\domain\obj\Debug\net7.0-windows\domain.pdb
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\domain\obj\Debug\net7.0-windows\domain.genruntimeconfig.cache
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\domain\obj\Debug\net7.0-windows\ref\domain.dll

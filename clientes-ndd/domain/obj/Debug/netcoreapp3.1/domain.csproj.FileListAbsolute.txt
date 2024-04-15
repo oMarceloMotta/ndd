@@ -1,0 +1,26 @@
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/domain/bin/Debug/netcoreapp3.1/domain.deps.json
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/domain/bin/Debug/netcoreapp3.1/domain.runtimeconfig.json
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/domain/bin/Debug/netcoreapp3.1/domain.runtimeconfig.dev.json
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/domain/bin/Debug/netcoreapp3.1/domain.dll
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/domain/bin/Debug/netcoreapp3.1/domain.pdb
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/domain/obj/Debug/netcoreapp3.1/domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/domain/obj/Debug/netcoreapp3.1/domain.AssemblyInfoInputs.cache
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/domain/obj/Debug/netcoreapp3.1/domain.AssemblyInfo.cs
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/domain/obj/Debug/netcoreapp3.1/domain.csproj.CoreCompileInputs.cache
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/domain/obj/Debug/netcoreapp3.1/domain.dll
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/domain/obj/Debug/netcoreapp3.1/domain.pdb
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/domain/obj/Debug/netcoreapp3.1/domain.genruntimeconfig.cache
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/domain/obj/Debug/netcoreapp3.1/domain.csproj.AssemblyReference.cache
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\domain\bin\Debug\netcoreapp3.1\domain.deps.json
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\domain\bin\Debug\netcoreapp3.1\domain.runtimeconfig.json
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\domain\bin\Debug\netcoreapp3.1\domain.runtimeconfig.dev.json
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\domain\bin\Debug\netcoreapp3.1\domain.dll
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\domain\bin\Debug\netcoreapp3.1\domain.pdb
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\domain\obj\Debug\netcoreapp3.1\domain.csproj.AssemblyReference.cache
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\domain\obj\Debug\netcoreapp3.1\domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\domain\obj\Debug\netcoreapp3.1\domain.AssemblyInfoInputs.cache
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\domain\obj\Debug\netcoreapp3.1\domain.AssemblyInfo.cs
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\domain\obj\Debug\netcoreapp3.1\domain.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\domain\obj\Debug\netcoreapp3.1\domain.dll
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\domain\obj\Debug\netcoreapp3.1\domain.pdb
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\domain\obj\Debug\netcoreapp3.1\domain.genruntimeconfig.cache

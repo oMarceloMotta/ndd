@@ -1,0 +1,32 @@
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/application/bin/Debug/netcoreapp3.1/application.deps.json
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/application/bin/Debug/netcoreapp3.1/application.runtimeconfig.json
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/application/bin/Debug/netcoreapp3.1/application.runtimeconfig.dev.json
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/application/bin/Debug/netcoreapp3.1/application.dll
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/application/bin/Debug/netcoreapp3.1/application.pdb
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/application/bin/Debug/netcoreapp3.1/domain.dll
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/application/bin/Debug/netcoreapp3.1/domain.pdb
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/application/obj/Debug/netcoreapp3.1/application.csproj.AssemblyReference.cache
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/application/obj/Debug/netcoreapp3.1/application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/application/obj/Debug/netcoreapp3.1/application.AssemblyInfoInputs.cache
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/application/obj/Debug/netcoreapp3.1/application.AssemblyInfo.cs
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/application/obj/Debug/netcoreapp3.1/application.csproj.CoreCompileInputs.cache
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/application/obj/Debug/netcoreapp3.1/application.csproj.CopyComplete
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/application/obj/Debug/netcoreapp3.1/application.dll
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/application/obj/Debug/netcoreapp3.1/application.pdb
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/application/obj/Debug/netcoreapp3.1/application.genruntimeconfig.cache
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\application\bin\Debug\netcoreapp3.1\application.deps.json
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\application\bin\Debug\netcoreapp3.1\application.runtimeconfig.json
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\application\bin\Debug\netcoreapp3.1\application.runtimeconfig.dev.json
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\application\bin\Debug\netcoreapp3.1\application.dll
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\application\bin\Debug\netcoreapp3.1\application.pdb
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\application\bin\Debug\netcoreapp3.1\domain.dll
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\application\bin\Debug\netcoreapp3.1\domain.pdb
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\application\obj\Debug\netcoreapp3.1\application.csproj.AssemblyReference.cache
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\application\obj\Debug\netcoreapp3.1\application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\application\obj\Debug\netcoreapp3.1\application.AssemblyInfoInputs.cache
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\application\obj\Debug\netcoreapp3.1\application.AssemblyInfo.cs
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\application\obj\Debug\netcoreapp3.1\application.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\application\obj\Debug\netcoreapp3.1\application.csproj.CopyComplete
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\application\obj\Debug\netcoreapp3.1\application.dll
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\application\obj\Debug\netcoreapp3.1\application.pdb
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\application\obj\Debug\netcoreapp3.1\application.genruntimeconfig.cache

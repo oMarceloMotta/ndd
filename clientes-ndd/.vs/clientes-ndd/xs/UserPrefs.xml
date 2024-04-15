@@ -1,0 +1,87 @@
+﻿<Properties StartupConfiguration="{A7AB1475-7092-4EC4-A2E4-FEF550718E5F}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="application/Features/Clientes/Commands/CreateCliente/CreateClienteCommandHandler.cs">
+    <Files>
+      <File FileName="UnitTestes/Mocks/MockClienteRepository.cs" Line="68" Column="52" />
+      <File FileName="UnitTestes/Features/Cliente/Queries/GetClientListQueryHandlerTests.cs" Line="14" Column="1" />
+      <File FileName="api/Program.cs" Line="10" Column="1" />
+      <File FileName="api/Controllers/ClienteController.cs" Line="67" Column="1" />
+      <File FileName="api/Startup.cs" Line="57" Column="10" />
+      <File FileName="application/Features/Clientes/Commands/CreateCliente/CreateClienteCommandValidator.cs" Line="11" Column="52" />
+      <File FileName="application/Features/Clientes/Commands/CreateCliente/CreateClienteCommandHandler.cs" Line="27" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="clientes-ndd" expanded="True">
+            <Node name="api">
+              <Node name="Controllers" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+            <Node name="application" expanded="True">
+              <Node name="Features" expanded="True">
+                <Node name="Clientes" expanded="True">
+                  <Node name="Commands" expanded="True">
+                    <Node name="CreateCliente" expanded="True">
+                      <Node name="CreateClienteCommandHandler.cs" selected="True" />
+                    </Node>
+                    <Node name="DeleteCliente" expanded="True" />
+                  </Node>
+                  <Node name="Queries" expanded="True">
+                    <Node name="GetClienteDetails" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+            <Node name="domain" expanded="True">
+              <Node name="Repository" expanded="True" />
+            </Node>
+            <Node name="UnitTestes">
+              <Node name="Features" expanded="True">
+                <Node name="Cliente" expanded="True">
+                  <Node name="Queries" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="clientes-ndd" expanded="True">
+            <Node name="api" expanded="True">
+              <Node name="api" expanded="True">
+                <Node name="api.Controllers.ClienteController" expanded="True" selected="True" />
+                <Node name="api.Startup" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="clientes-ndd">
+            <Node name="UnitTestes">
+              <Node name="UnitTestes" expanded="True" />
+              <Node name="UnitTestes.Features.Cliente.Queries">
+                <Node name="GetClientListQueryHandlerTests">
+                  <Node name="GetClienteListTest - d933e317-32f7-44d3-d024-4c8aa3057209" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.UnitTestes PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>

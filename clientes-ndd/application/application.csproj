@@ -1,0 +1,47 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+	  <TargetFramework>net7.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+  </ItemGroup>
+  <ItemGroup>
+
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Commands\" />
+    <None Remove="AutoMapper.Extensions.Microsoft.DependencyInjection" />
+    <None Remove="MappingProfiles\" />
+    <None Remove="Features\" />
+    <None Remove="Features\Cliente\Queries\GetAllCliente\GetAllCliente\" />
+    <None Remove="Features\Cliente\Commands\CreateLeaveType\" />
+    <None Remove="Exceptions\" />
+    <None Remove="FluentValidation.DependencyInjectionExtensions" />
+    <None Remove="FluentValidation" />
+    <None Remove="Microsoft.EntityFrameworkCore.Tools" />
+    <None Remove="Features\Clientes\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="MappingProfiles\" />
+    <Folder Include="Features\" />
+    <Folder Include="Exceptions\" />
+    <Folder Include="Features\Clientes\" />
+  </ItemGroup>
+  <ItemGroup>
+    
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="7.0.0" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="7.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.0" />
+
+    <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="8.2.2" />
+    <PackageReference Include="FluentValidation" Version="8.2.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.0">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\domain\domain.csproj" />
+  </ItemGroup>
+</Project>

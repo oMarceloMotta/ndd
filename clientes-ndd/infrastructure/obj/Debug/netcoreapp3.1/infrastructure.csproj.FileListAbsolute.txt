@@ -1,0 +1,36 @@
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/infrastructure/bin/Debug/netcoreapp3.1/infrastructure.deps.json
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/infrastructure/bin/Debug/netcoreapp3.1/infrastructure.runtimeconfig.json
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/infrastructure/bin/Debug/netcoreapp3.1/infrastructure.runtimeconfig.dev.json
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/infrastructure/bin/Debug/netcoreapp3.1/infrastructure.dll
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/infrastructure/bin/Debug/netcoreapp3.1/infrastructure.pdb
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/infrastructure/bin/Debug/netcoreapp3.1/application.dll
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/infrastructure/bin/Debug/netcoreapp3.1/domain.dll
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/infrastructure/bin/Debug/netcoreapp3.1/application.pdb
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/infrastructure/bin/Debug/netcoreapp3.1/domain.pdb
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/infrastructure/obj/Debug/netcoreapp3.1/infrastructure.csproj.AssemblyReference.cache
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/infrastructure/obj/Debug/netcoreapp3.1/infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/infrastructure/obj/Debug/netcoreapp3.1/infrastructure.AssemblyInfoInputs.cache
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/infrastructure/obj/Debug/netcoreapp3.1/infrastructure.AssemblyInfo.cs
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/infrastructure/obj/Debug/netcoreapp3.1/infrastructure.csproj.CoreCompileInputs.cache
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/infrastructure/obj/Debug/netcoreapp3.1/infrastructure.csproj.CopyComplete
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/infrastructure/obj/Debug/netcoreapp3.1/infrastructure.dll
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/infrastructure/obj/Debug/netcoreapp3.1/infrastructure.pdb
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/infrastructure/obj/Debug/netcoreapp3.1/infrastructure.genruntimeconfig.cache
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\infrastructure\bin\Debug\netcoreapp3.1\infrastructure.deps.json
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\infrastructure\bin\Debug\netcoreapp3.1\infrastructure.runtimeconfig.json
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\infrastructure\bin\Debug\netcoreapp3.1\infrastructure.runtimeconfig.dev.json
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\infrastructure\bin\Debug\netcoreapp3.1\infrastructure.dll
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\infrastructure\bin\Debug\netcoreapp3.1\infrastructure.pdb
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\infrastructure\bin\Debug\netcoreapp3.1\application.dll
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\infrastructure\bin\Debug\netcoreapp3.1\domain.dll
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\infrastructure\bin\Debug\netcoreapp3.1\application.pdb
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\infrastructure\bin\Debug\netcoreapp3.1\domain.pdb
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\infrastructure\obj\Debug\netcoreapp3.1\infrastructure.csproj.AssemblyReference.cache
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\infrastructure\obj\Debug\netcoreapp3.1\infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\infrastructure\obj\Debug\netcoreapp3.1\infrastructure.AssemblyInfoInputs.cache
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\infrastructure\obj\Debug\netcoreapp3.1\infrastructure.AssemblyInfo.cs
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\infrastructure\obj\Debug\netcoreapp3.1\infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\infrastructure\obj\Debug\netcoreapp3.1\infrastructure.csproj.CopyComplete
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\infrastructure\obj\Debug\netcoreapp3.1\infrastructure.dll
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\infrastructure\obj\Debug\netcoreapp3.1\infrastructure.pdb
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\infrastructure\obj\Debug\netcoreapp3.1\infrastructure.genruntimeconfig.cache

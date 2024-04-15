@@ -1,0 +1,17 @@
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/application/bin/Debug/net7.0/application.deps.json
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/application/bin/Debug/net7.0/application.runtimeconfig.json
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/application/bin/Debug/net7.0/application.dll
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/application/bin/Debug/net7.0/application.pdb
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/application/bin/Debug/net7.0/domain.dll
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/application/bin/Debug/net7.0/domain.pdb
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/application/obj/Debug/net7.0/application.csproj.AssemblyReference.cache
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/application/obj/Debug/net7.0/application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/application/obj/Debug/net7.0/application.AssemblyInfoInputs.cache
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/application/obj/Debug/net7.0/application.AssemblyInfo.cs
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/application/obj/Debug/net7.0/application.csproj.CoreCompileInputs.cache
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/application/obj/Debug/net7.0/application.csproj.CopyComplete
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/application/obj/Debug/net7.0/application.dll
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/application/obj/Debug/net7.0/refint/application.dll
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/application/obj/Debug/net7.0/application.pdb
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/application/obj/Debug/net7.0/application.genruntimeconfig.cache
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/application/obj/Debug/net7.0/ref/application.dll

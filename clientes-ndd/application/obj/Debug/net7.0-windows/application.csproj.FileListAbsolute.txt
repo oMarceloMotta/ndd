@@ -1,0 +1,17 @@
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\application\bin\Debug\net7.0-windows\application.deps.json
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\application\bin\Debug\net7.0-windows\application.runtimeconfig.json
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\application\bin\Debug\net7.0-windows\application.dll
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\application\bin\Debug\net7.0-windows\application.pdb
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\application\bin\Debug\net7.0-windows\domain.dll
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\application\bin\Debug\net7.0-windows\domain.pdb
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\application\obj\Debug\net7.0-windows\application.csproj.AssemblyReference.cache
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\application\obj\Debug\net7.0-windows\application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\application\obj\Debug\net7.0-windows\application.AssemblyInfoInputs.cache
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\application\obj\Debug\net7.0-windows\application.AssemblyInfo.cs
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\application\obj\Debug\net7.0-windows\application.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\application\obj\Debug\net7.0-windows\application.csproj.CopyComplete
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\application\obj\Debug\net7.0-windows\application.dll
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\application\obj\Debug\net7.0-windows\refint\application.dll
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\application\obj\Debug\net7.0-windows\application.pdb
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\application\obj\Debug\net7.0-windows\application.genruntimeconfig.cache
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\application\obj\Debug\net7.0-windows\ref\application.dll

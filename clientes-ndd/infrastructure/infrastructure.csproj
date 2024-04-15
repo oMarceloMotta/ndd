@@ -1,0 +1,42 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+	  <TargetFramework>net7.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Microsoft.EntityFrameworkCore.SqlServer" />
+    <None Remove="AutoMapper.Extensions.Microsoft.DependencyInjection" />
+    <None Remove="FluentValidation.DependencyInjectionExtensions" />
+    <None Remove="FluentValidation" />
+    <None Remove="Persistence\" />
+    <None Remove="Persistence\DatabaseContext\" />
+    <None Remove="Persistence\Configuration\" />
+    <None Remove="Persistence\Repository\" />
+    <None Remove="Microsoft.EntityFrameworkCore.Tools" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.0" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="7.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.0" />
+    <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="8.2.2" />
+    <PackageReference Include="FluentValidation" Version="8.2.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.0">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Persistence\" />
+    <Folder Include="Persistence\DatabaseContext\" />
+    <Folder Include="Persistence\Configuration\" />
+    <Folder Include="Persistence\Repository\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\application\application.csproj" />
+    <ProjectReference Include="..\domain\domain.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="Persistence\DatabaseContext\GenericRepository.cs" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,14 @@
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/domain/bin/Debug/net7.0/domain.deps.json
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/domain/bin/Debug/net7.0/domain.runtimeconfig.json
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/domain/bin/Debug/net7.0/domain.dll
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/domain/bin/Debug/net7.0/domain.pdb
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/domain/obj/Debug/net7.0/domain.csproj.AssemblyReference.cache
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/domain/obj/Debug/net7.0/domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/domain/obj/Debug/net7.0/domain.AssemblyInfoInputs.cache
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/domain/obj/Debug/net7.0/domain.AssemblyInfo.cs
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/domain/obj/Debug/net7.0/domain.csproj.CoreCompileInputs.cache
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/domain/obj/Debug/net7.0/domain.dll
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/domain/obj/Debug/net7.0/refint/domain.dll
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/domain/obj/Debug/net7.0/domain.pdb
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/domain/obj/Debug/net7.0/domain.genruntimeconfig.cache
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/domain/obj/Debug/net7.0/ref/domain.dll

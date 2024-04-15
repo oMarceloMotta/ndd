@@ -1,0 +1,138 @@
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/api/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/api/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/api/bin/Debug/netcoreapp3.1/api.deps.json
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/api/bin/Debug/netcoreapp3.1/api.runtimeconfig.json
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/api/bin/Debug/netcoreapp3.1/api.runtimeconfig.dev.json
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/api/bin/Debug/netcoreapp3.1/api.dll
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/api/bin/Debug/netcoreapp3.1/api.pdb
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/api/bin/Debug/netcoreapp3.1/AutoMapper.dll
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/api/bin/Debug/netcoreapp3.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/api/bin/Debug/netcoreapp3.1/FluentValidation.dll
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/api/bin/Debug/netcoreapp3.1/FluentValidation.AspNetCore.dll
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/api/bin/Debug/netcoreapp3.1/FluentValidation.DependencyInjectionExtensions.dll
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/api/bin/Debug/netcoreapp3.1/MediatR.dll
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/api/bin/Debug/netcoreapp3.1/MediatR.Extensions.Microsoft.DependencyInjection.dll
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/api/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.JsonPatch.dll
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/api/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Mvc.Razor.Host.dll
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/api/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/api/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/api/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/api/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/api/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/api/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/api/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/api/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/api/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/api/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/api/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/api/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/api/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Globalization.CultureInfoCache.dll
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/api/bin/Debug/netcoreapp3.1/Microsoft.Extensions.PlatformAbstractions.dll
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/api/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/api/bin/Debug/netcoreapp3.1/Microsoft.OpenApi.dll
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/api/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/api/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Swagger.dll
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/api/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/api/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/api/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/api/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/api/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/api/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/api/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/api/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/api/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/api/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/api/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/api/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/api/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/api/bin/Debug/netcoreapp3.1/application.dll
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/api/bin/Debug/netcoreapp3.1/domain.dll
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/api/bin/Debug/netcoreapp3.1/infrastructure.dll
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/api/bin/Debug/netcoreapp3.1/domain.pdb
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/api/bin/Debug/netcoreapp3.1/infrastructure.pdb
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/api/bin/Debug/netcoreapp3.1/application.pdb
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/api/obj/Debug/netcoreapp3.1/api.csproj.AssemblyReference.cache
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/api/obj/Debug/netcoreapp3.1/api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/api/obj/Debug/netcoreapp3.1/api.AssemblyInfoInputs.cache
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/api/obj/Debug/netcoreapp3.1/api.AssemblyInfo.cs
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/api/obj/Debug/netcoreapp3.1/api.csproj.CoreCompileInputs.cache
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/api/obj/Debug/netcoreapp3.1/api.MvcApplicationPartsAssemblyInfo.cs
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/api/obj/Debug/netcoreapp3.1/api.MvcApplicationPartsAssemblyInfo.cache
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/api/obj/Debug/netcoreapp3.1/staticwebassets/api.StaticWebAssets.Manifest.cache
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/api/obj/Debug/netcoreapp3.1/api.RazorTargetAssemblyInfo.cache
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/api/obj/Debug/netcoreapp3.1/api.csproj.CopyComplete
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/api/obj/Debug/netcoreapp3.1/api.dll
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/api/obj/Debug/netcoreapp3.1/api.pdb
+/Users/marcelomotta/Desktop/ndd/clientes-ndd/api/obj/Debug/netcoreapp3.1/api.genruntimeconfig.cache
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\api\bin\Debug\netcoreapp3.1\api.exe
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\api\bin\Debug\netcoreapp3.1\api.deps.json
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\api\bin\Debug\netcoreapp3.1\api.runtimeconfig.json
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\api\bin\Debug\netcoreapp3.1\api.runtimeconfig.dev.json
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\api\bin\Debug\netcoreapp3.1\api.dll
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\api\bin\Debug\netcoreapp3.1\api.pdb
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\api\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\api\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\api\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\api\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\api\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\api\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Host.dll
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\api\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Globalization.CultureInfoCache.dll
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\api\bin\Debug\netcoreapp3.1\application.dll
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\api\bin\Debug\netcoreapp3.1\domain.dll
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\api\bin\Debug\netcoreapp3.1\infrastructure.dll
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\api\bin\Debug\netcoreapp3.1\domain.pdb
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\api\bin\Debug\netcoreapp3.1\infrastructure.pdb
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\api\bin\Debug\netcoreapp3.1\application.pdb
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\api\obj\Debug\netcoreapp3.1\api.csproj.AssemblyReference.cache
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\api\obj\Debug\netcoreapp3.1\api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\api\obj\Debug\netcoreapp3.1\api.AssemblyInfoInputs.cache
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\api\obj\Debug\netcoreapp3.1\api.AssemblyInfo.cs
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\api\obj\Debug\netcoreapp3.1\api.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\api\obj\Debug\netcoreapp3.1\api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\api\obj\Debug\netcoreapp3.1\api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\api\obj\Debug\netcoreapp3.1\staticwebassets\api.StaticWebAssets.Manifest.cache
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\api\obj\Debug\netcoreapp3.1\staticwebassets\api.StaticWebAssets.Pack.cache
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\api\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\api\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.api.props
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\api\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.api.props
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\api\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.api.props
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\api\obj\Debug\netcoreapp3.1\api.RazorTargetAssemblyInfo.cache
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\api\obj\Debug\netcoreapp3.1\api.csproj.CopyComplete
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\api\obj\Debug\netcoreapp3.1\api.dll
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\api\obj\Debug\netcoreapp3.1\api.pdb
+C:\Users\Marcelo Motta\Desktop\clientes-ndd\api\obj\Debug\netcoreapp3.1\api.genruntimeconfig.cache
